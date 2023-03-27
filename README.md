@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**deopa0402/deopa0402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deopa0402)
 
 Here are some ideas to get you started:
 
