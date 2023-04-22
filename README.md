@@ -4,6 +4,9 @@
 <p>Hi There! I'm a frontEnd developer.</p>
 <p> My main skills are HTML, CSS, JavaScript, React and TypeScript</p>
 <p>I'm a persistent person, who study hard day and night for be a good developer.</p>
+
+#
+<h3>✉️ </h3>
   
 #
 <h3>❤️ I love...</h3>
