@@ -16,7 +16,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rlawoals_o5/)
 
 #
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deopa0402&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 
 <h3>🔥 Tech Stack 🔥</h3>
 
